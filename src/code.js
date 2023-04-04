@@ -5,7 +5,6 @@ function onOpen() {
     .addItem("Open About", "openSidebarAbout")
     .addItem("Open Contact", "openSidebarContact")
     .addToUi();
-  openSidebarHome_();
 }
 
 function openSidebar(name) {
