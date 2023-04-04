@@ -9,5 +9,11 @@
   "keywords": [],
   "author": "sinsky <60662802+sinsky@users.noreply.github.com>",
   "license": "ISC",
-  "repository": "https://github.com/sinsky/multiple-sidebar-gas.git"
+  "repository": "https://github.com/sinsky/multiple-sidebar-gas.git",
+  "devDependencies": {
+    "@google/clasp": "^2.4.2",
+    "@types/google-apps-script": "^1.0.59",
+    "@types/google.script.client-side": "^0.1.1",
+    "prettier": "^2.8.7"
+  }
 }
