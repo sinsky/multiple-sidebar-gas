@@ -1,9 +1,9 @@
 function onOpen() {
   const ui = SpreadsheetApp.getUi();
   ui.createMenu("Open Sidebar")
-    .addItem("Open Home", "openSidebarHome")
-    .addItem("Open About", "openSidebarAbout")
-    .addItem("Open Contact", "openSidebarContact")
+    .addItem("Open Home", "openSidebarHome_")
+    .addItem("Open About", "openSidebarAbout_")
+    .addItem("Open Contact", "openSidebarContact_")
     .addToUi();
 }
 
