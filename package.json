@@ -1,0 +1,13 @@
+{
+  "name": "multiple-sidebar-gas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sinsky <60662802+sinsky@users.noreply.github.com>",
+  "license": "ISC",
+  "repository": "https://github.com/sinsky/multiple-sidebar-gas.git"
+}
